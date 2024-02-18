@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AR-RESTROOM" size="100.000000 66.252220" />
+    <ImageTarget name="AR-INTERIOR" size="100.000000 67.448074" />
+    <ImageTarget name="AR-RUANG-TV" size="100.000000 66.636635" />
+  </Tracking>
+</QCARConfig>

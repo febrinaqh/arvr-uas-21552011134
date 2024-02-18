@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 541f2698704a491489dea660cde4fa97
+  - enabled: 1
+    path: Assets/Scenes/ARrestroom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARlivingroom.unity
+    guid: 2053de9456a0cda43942245834a68c75
+  - enabled: 1
+    path: Assets/Scenes/ARinterior.unity
+    guid: 638906121ae23cd4c88b6032c1ab8eae
+  - enabled: 1
+    path: Assets/Scenes/VRrestroom.unity
+    guid: 36e6685705d652f4588601fcb277cb57
+  - enabled: 1
+    path: Assets/Scenes/VRlivingroom.unity
+    guid: 3cbd5fd73b35c5543a6e6c07d5b85918
+  - enabled: 1
+    path: Assets/Scenes/VRinterior.unity
+    guid: 4847da20e8e48fe4d800eb98a9b16dd5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 99d916af353940d4a9cbd88794904243,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ace64d825c07bd942beb72d1d95b663e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8f3bdfaa5fee6244fa8e0822d6a2e5a9,
+      type: 2}
